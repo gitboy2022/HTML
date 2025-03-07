@@ -1,0 +1,1 @@
+For the homework, ++i is n to (last number-1), i++ is n to (last number-0). 
